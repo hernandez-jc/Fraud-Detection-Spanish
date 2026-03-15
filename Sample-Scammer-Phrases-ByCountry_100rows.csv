@@ -1,0 +1,101 @@
+﻿id,country,spanish_phrase,english_translation,sentiment,urgency_level,scam_type,word_count,exclamation_count,is_all_caps
+1,Colombia,"Mija, se jode todo! paga YA, te joden.","Bro, hurry! Send money or they steal everything!",PANIC,LOW,BANK,8,1,FALSE
+2,Colombia,"¡PRONTO! activa ya mismo, DIAN!","Bro, hurry! Send money or they steal everything!",GUILT,LOW,TECH_SUPPORT,5,2,TRUE
+3,Spain,"¡envía AHORA! Si no, te arrestan!",Act NOW or lose everything! Account blocks in 5 min!,ANGER,MEDIUM,CRYPTO,6,2,TRUE
+4,Spain,"¡verifica AHORA! Si no, pierdes dinero!",Act NOW or lose everything! Account blocks in 5 min!,PANIC,HIGH,TAX,6,2,TRUE
+5,Colombia,¡ALERTA! Tu familia confirma datos última chance.,"Bro, hurry! Send money or they steal everything!",PANIC,HIGH,TECH_SUPPORT,7,1,TRUE
+6,Argentina,"¡CORRÉ! paga última hora, te hackean!","Move fast, idiot! Last chance, send money NOW!",GUILT,HIGH,BANK,6,2,TRUE
+7,Colombia,"¡CORRE! envía en 5 min, DIAN!","Bro, hurry! Send money or they steal everything!",GREED,LOW,BANK,6,2,TRUE
+8,Colombia,"Rápido, última vez! envía YA, te joden.","Bro, hurry! Send money or they steal everything!",PANIC,MEDIUM,TECH_SUPPORT,7,1,FALSE
+9,Mexico,"¡YA MERO! paga última hora, banco cierra!","Hurry up, dude! Transfer NOW or they screw you!",PANIC,CRITICAL,BANK,7,2,TRUE
+10,Spain,"¡RÁPIDO! paga en 5 min, te hackean!",Act NOW or lose everything! Account blocks in 5 min!,GREED,MEDIUM,FAMILY,7,2,TRUE
+11,Argentina,"Urgente, AHORA! Mercado Pago $500 YA.","Move fast, idiot! Last chance, send money NOW!",FEAR,HIGH,TECH_SUPPORT,6,1,TRUE
+12,Argentina,¡ALERTA! El banco envía dinero última chance.,"Move fast, idiot! Last chance, send money NOW!",GREED,LOW,POLICE,7,1,TRUE
+13,Spain,"¡RÁPIDO! envía ya mismo, te hackean!",Act NOW or lose everything! Account blocks in 5 min!,GREED,LOW,CRYPTO,6,2,TRUE
+14,Spain,"¡paga AHORA! Si no, pierdes dinero!",Act NOW or lose everything! Account blocks in 5 min!,GREED,LOW,FAMILY,6,2,TRUE
+15,Argentina,"¡RAPIDÍN! verifica HOY, cierran cuenta!","Move fast, idiot! Last chance, send money NOW!",PANIC,LOW,TAX,5,2,TRUE
+16,Colombia,"¡envía AHORA! Si no, pierdes dinero!","Bro, hurry! Send money or they steal everything!",PANIC,CRITICAL,CRYPTO,6,2,TRUE
+17,Mexico,"Órale, te quedas fuera! transfiere YA, te joden.","Hurry up, dude! Transfer NOW or they screw you!",FEAR,HIGH,BANK,8,1,FALSE
+18,Mexico,"¡NO MAÑANA! paga HOY, banco cierra!","Hurry up, dude! Transfer NOW or they screw you!",ANGER,HIGH,POLICE,6,2,TRUE
+19,Spain,"Cliente, RÁPIDO! Transferencia $500 YA.",Act NOW or lose everything! Account blocks in 5 min!,GREED,CRITICAL,BANK,5,1,TRUE
+20,Argentina,¡ALERTA! Tu cuenta envía dinero HOY.,"Move fast, idiot! Last chance, send money NOW!",FEAR,CRITICAL,TAX,6,1,TRUE
+21,Mexico,"Carnal, es ya! verifica YA, te arrestan.","Hurry up, dude! Transfer NOW or they screw you!",GREED,HIGH,TAX,7,1,FALSE
+22,Mexico,"¡CORRE! envía en 5 min, te joden!","Hurry up, dude! Transfer NOW or they screw you!",ANGER,MEDIUM,BANK,7,2,TRUE
+23,Spain,"Urgente, YA! míralo urgente YA.",Act NOW or lose everything! Account blocks in 5 min!,GUILT,CRITICAL,POLICE,5,1,FALSE
+24,Argentina,¡ALERTA! Tu cuenta paga deuda HOY.,"Move fast, idiot! Last chance, send money NOW!",FEAR,CRITICAL,TECH_SUPPORT,6,1,TRUE
+25,Argentina,"¡AHORA! verifica última hora, ANSES reclama!","Move fast, idiot! Last chance, send money NOW!",GUILT,MEDIUM,TECH_SUPPORT,6,2,TRUE
+26,Spain,¡ALERTA! Tu familia activa cuenta HOY.,Act NOW or lose everything! Account blocks in 5 min!,GREED,MEDIUM,TECH_SUPPORT,6,1,TRUE
+27,Mexico,"¡envía AHORA! Si no, se cierra!","Hurry up, dude! Transfer NOW or they screw you!",PANIC,MEDIUM,FAMILY,6,2,TRUE
+28,Spain,"Venga, última oportunidad! verifica YA, pierdes todo.",Act NOW or lose everything! Account blocks in 5 min!,PANIC,LOW,POLICE,7,1,FALSE
+29,Argentina,¡ALERTA! Tu dinero paga deuda YA.,"Move fast, idiot! Last chance, send money NOW!",ANGER,CRITICAL,CRYPTO,6,1,TRUE
+30,Spain,"Amigo, YA! Bizum 1000€ YA.",Act NOW or lose everything! Account blocks in 5 min!,ANGER,LOW,LOTTERY,5,1,FALSE
+31,Spain,¡ALERTA! Tu cuenta envía dinero 5 minutos.,Act NOW or lose everything! Account blocks in 5 min!,GREED,CRITICAL,TAX,7,1,TRUE
+32,Mexico,"¡transfiere AHORA! Si no, pierdes dinero!","Hurry up, dude! Transfer NOW or they screw you!",GREED,MEDIUM,POLICE,6,2,TRUE
+33,Spain,"Joder, última oportunidad! paga YA, te arrestan.",Act NOW or lose everything! Account blocks in 5 min!,PANIC,HIGH,BANK,7,1,FALSE
+34,Argentina,¡ALERTA! Tu dinero paga deuda HOY.,"Move fast, idiot! Last chance, send money NOW!",PANIC,CRITICAL,CRYPTO,6,1,TRUE
+35,Mexico,"¡APÚRATE! activa ya mismo, te roban!","Hurry up, dude! Transfer NOW or they screw you!",FEAR,CRITICAL,TECH_SUPPORT,6,2,TRUE
+36,Colombia,"Cliente, YA MISMO! parce 1000€ YA.","Bro, hurry! Send money or they steal everything!",FEAR,MEDIUM,FAMILY,6,1,TRUE
+37,Colombia,"Mija, cierran! verifica YA, pierdes todo.","Bro, hurry! Send money or they steal everything!",GREED,HIGH,CRYPTO,6,1,FALSE
+38,Argentina,"Señor, AHORA! mirá urgente YA.","Move fast, idiot! Last chance, send money NOW!",GREED,LOW,LOTTERY,5,1,TRUE
+39,Colombia,"¡verifica AHORA! Si no, te bloquean!","Bro, hurry! Send money or they steal everything!",FEAR,HIGH,POLICE,6,2,TRUE
+40,Spain,¡ALERTA! Tu cuenta activa cuenta HOY.,Act NOW or lose everything! Account blocks in 5 min!,GREED,MEDIUM,LOTTERY,6,1,TRUE
+41,Argentina,"Dale, expira! verifica YA, te arrestan.","Move fast, idiot! Last chance, send money NOW!",GREED,MEDIUM,TAX,6,1,FALSE
+42,Mexico,"¡YA MERO! envía en 5 min, banco cierra!","Hurry up, dude! Transfer NOW or they screw you!",ANGER,LOW,POLICE,8,2,TRUE
+43,Mexico,"Ándale, te quedas fuera! envía YA, se acaba.","Hurry up, dude! Transfer NOW or they screw you!",FEAR,HIGH,LOTTERY,8,1,FALSE
+44,Argentina,"¡envía AHORA! Si no, te bloquean!","Move fast, idiot! Last chance, send money NOW!",ANGER,MEDIUM,BANK,6,2,TRUE
+45,Argentina,"Amigo, AHORA! CVU 1000€ YA.","Move fast, idiot! Last chance, send money NOW!",PANIC,HIGH,LOTTERY,5,1,TRUE
+46,Mexico,"Señor, NO MAÑANA! chécalo $500 YA.","Hurry up, dude! Transfer NOW or they screw you!",GREED,LOW,TECH_SUPPORT,6,1,TRUE
+47,Colombia,"Oye, te quitan plata! envía YA, se acaba.","Bro, hurry! Send money or they steal everything!",GUILT,LOW,FAMILY,8,1,FALSE
+48,Mexico,"Amigo, CORRE! OXXO todo YA.","Hurry up, dude! Transfer NOW or they screw you!",GUILT,LOW,TECH_SUPPORT,5,1,TRUE
+49,Spain,"¡activa AHORA! Si no, te arrestan!",Act NOW or lose everything! Account blocks in 5 min!,ANGER,HIGH,POLICE,6,2,TRUE
+50,Argentina,"¡envía AHORA! Si no, pierdes dinero!","Move fast, idiot! Last chance, send money NOW!",GUILT,LOW,POLICE,6,2,TRUE
+51,Spain,"Venga, última oportunidad! envía YA, pierdes todo.",Act NOW or lose everything! Account blocks in 5 min!,GUILT,HIGH,LOTTERY,7,1,FALSE
+52,Argentina,"La concha, expira! verifica YA, pierdes todo.","Move fast, idiot! Last chance, send money NOW!",PANIC,LOW,CRYPTO,7,1,FALSE
+53,Mexico,"Urgente, NO MAÑANA! SPEI todo YA.","Hurry up, dude! Transfer NOW or they screw you!",ANGER,CRITICAL,TECH_SUPPORT,6,1,TRUE
+54,Spain,"¡paga AHORA! Si no, pierdes dinero!",Act NOW or lose everything! Account blocks in 5 min!,ANGER,HIGH,CRYPTO,6,2,TRUE
+55,Spain,"¡verifica AHORA! Si no, te arrestan!",Act NOW or lose everything! Account blocks in 5 min!,GUILT,LOW,FAMILY,6,2,TRUE
+56,Colombia,"¡paga AHORA! Si no, te bloquean!","Bro, hurry! Send money or they steal everything!",GUILT,CRITICAL,TAX,6,2,TRUE
+57,Colombia,"¡AHORA! transfiere en 5 min, DIAN!","Bro, hurry! Send money or they steal everything!",GREED,LOW,CRYPTO,6,2,TRUE
+58,Mexico,"Órale, te quedas fuera! envía YA, se acaba.","Hurry up, dude! Transfer NOW or they screw you!",GREED,LOW,FAMILY,8,1,FALSE
+59,Argentina,"¡AHORA! activa ya mismo, te quiebran!","Move fast, idiot! Last chance, send money NOW!",PANIC,MEDIUM,FAMILY,6,2,TRUE
+60,Colombia,¡ALERTA! Tu cuenta paga deuda 5 minutos.,"Bro, hurry! Send money or they steal everything!",ANGER,CRITICAL,POLICE,7,1,TRUE
+61,Spain,"¡INMEDIATO! envía última hora, te hackean!",Act NOW or lose everything! Account blocks in 5 min!,GUILT,MEDIUM,TECH_SUPPORT,6,2,TRUE
+62,Spain,"¡INMEDIATO! transfiere última hora, te bloquean!",Act NOW or lose everything! Account blocks in 5 min!,ANGER,HIGH,LOTTERY,6,2,TRUE
+63,Argentina,"La concha, última chance! activa YA, te joden.","Move fast, idiot! Last chance, send money NOW!",ANGER,CRITICAL,FAMILY,8,1,FALSE
+64,Spain,"¡YA! paga en 5 min, te arrestan!",Act NOW or lose everything! Account blocks in 5 min!,ANGER,CRITICAL,LOTTERY,7,2,TRUE
+65,Mexico,"¡activa AHORA! Si no, pierdes dinero!","Hurry up, dude! Transfer NOW or they screw you!",FEAR,MEDIUM,LOTTERY,6,2,TRUE
+66,Argentina,"¡verifica AHORA! Si no, te arrestan!","Move fast, idiot! Last chance, send money NOW!",GUILT,HIGH,BANK,6,2,TRUE
+67,Spain,"¡envía AHORA! Si no, pierdes dinero!",Act NOW or lose everything! Account blocks in 5 min!,PANIC,MEDIUM,CRYPTO,6,2,TRUE
+68,Colombia,¡ALERTA! Tu dinero confirma datos 5 minutos.,"Bro, hurry! Send money or they steal everything!",ANGER,LOW,CRYPTO,7,1,TRUE
+69,Mexico,¡ALERTA! Tu dinero paga deuda YA.,"Hurry up, dude! Transfer NOW or they screw you!",PANIC,MEDIUM,CRYPTO,6,1,TRUE
+70,Spain,"Joder, última oportunidad! verifica YA, pierdes todo.",Act NOW or lose everything! Account blocks in 5 min!,PANIC,MEDIUM,POLICE,7,1,FALSE
+71,Colombia,"¡verifica AHORA! Si no, pierdes dinero!","Bro, hurry! Send money or they steal everything!",GREED,MEDIUM,FAMILY,6,2,TRUE
+72,Colombia,"Rápido, última vez! envía YA, se acaba.","Bro, hurry! Send money or they steal everything!",FEAR,MEDIUM,LOTTERY,7,1,FALSE
+73,Spain,¡ALERTA! Tu familia envía dinero última chance.,Act NOW or lose everything! Account blocks in 5 min!,GUILT,LOW,TECH_SUPPORT,7,1,TRUE
+74,Mexico,¡ALERTA! Tu familia envía dinero YA.,"Hurry up, dude! Transfer NOW or they screw you!",GUILT,MEDIUM,FAMILY,6,1,TRUE
+75,Argentina,"¡transfiere AHORA! Si no, te arrestan!","Move fast, idiot! Last chance, send money NOW!",GUILT,HIGH,TECH_SUPPORT,6,2,TRUE
+76,Mexico,¡ALERTA! Tu dinero envía dinero YA.,"Hurry up, dude! Transfer NOW or they screw you!",GUILT,CRITICAL,CRYPTO,6,1,TRUE
+77,Colombia,¡ALERTA! Tu cuenta activa cuenta HOY.,"Bro, hurry! Send money or they steal everything!",ANGER,MEDIUM,FAMILY,6,1,TRUE
+78,Mexico,"¡CORRE! verifica en 5 min, banco cierra!","Hurry up, dude! Transfer NOW or they screw you!",GREED,CRITICAL,FAMILY,7,2,TRUE
+79,Argentina,"Boludo, expira! paga YA, te joden.","Move fast, idiot! Last chance, send money NOW!",PANIC,CRITICAL,TECH_SUPPORT,6,1,FALSE
+80,Spain,"Oye, te embargan! envía YA, se acaba.",Act NOW or lose everything! Account blocks in 5 min!,GREED,HIGH,POLICE,7,1,FALSE
+81,Mexico,"¡envía AHORA! Si no, te arrestan!","Hurry up, dude! Transfer NOW or they screw you!",PANIC,CRITICAL,POLICE,6,2,TRUE
+82,Spain,"¡YA! paga en 5 min, te hackean!",Act NOW or lose everything! Account blocks in 5 min!,ANGER,LOW,TECH_SUPPORT,7,2,TRUE
+83,Colombia,"Señor, CORRE! parce $500 YA.","Bro, hurry! Send money or they steal everything!",FEAR,CRITICAL,LOTTERY,5,1,TRUE
+84,Mexico,"¡CORRE! paga última hora, banco cierra!","Hurry up, dude! Transfer NOW or they screw you!",GUILT,MEDIUM,LOTTERY,6,2,TRUE
+85,Mexico,¡ALERTA! El banco confirma datos YA.,"Hurry up, dude! Transfer NOW or they screw you!",FEAR,LOW,TAX,6,1,TRUE
+86,Spain,"Hostia, cierran la cuenta! paga YA, te joden.",Act NOW or lose everything! Account blocks in 5 min!,PANIC,CRITICAL,FAMILY,8,1,FALSE
+87,Mexico,"Órale, te quedas fuera! activa YA, te arrestan.","Hurry up, dude! Transfer NOW or they screw you!",PANIC,CRITICAL,LOTTERY,8,1,FALSE
+88,Colombia,"Amigo, CORRE! parce todo YA.","Bro, hurry! Send money or they steal everything!",FEAR,MEDIUM,TECH_SUPPORT,5,1,TRUE
+89,Argentina,¡ALERTA! Tu familia activa cuenta YA.,"Move fast, idiot! Last chance, send money NOW!",FEAR,MEDIUM,FAMILY,6,1,TRUE
+90,Mexico,"Urgente, NO MAÑANA! chécalo todo YA.","Hurry up, dude! Transfer NOW or they screw you!",GREED,CRITICAL,LOTTERY,6,1,TRUE
+91,Argentina,¡ALERTA! Tu familia paga deuda YA.,"Move fast, idiot! Last chance, send money NOW!",GUILT,LOW,FAMILY,6,1,TRUE
+92,Colombia,"¡paga AHORA! Si no, pierdes dinero!","Bro, hurry! Send money or they steal everything!",GREED,HIGH,FAMILY,6,2,TRUE
+93,Argentina,"Che, última chance! envía YA, se acaba.","Move fast, idiot! Last chance, send money NOW!",GREED,LOW,TAX,7,1,FALSE
+94,Mexico,"¡CORRE! paga última hora, hackers!","Hurry up, dude! Transfer NOW or they screw you!",ANGER,HIGH,FAMILY,5,2,TRUE
+95,Argentina,"Che, se corta todo! activa YA, te arrestan.","Move fast, idiot! Last chance, send money NOW!",ANGER,LOW,TECH_SUPPORT,8,1,FALSE
+96,Mexico,¡ALERTA! El banco paga deuda YA.,"Hurry up, dude! Transfer NOW or they screw you!",ANGER,HIGH,TECH_SUPPORT,6,1,TRUE
+97,Spain,¡ALERTA! El banco envía dinero HOY.,Act NOW or lose everything! Account blocks in 5 min!,GUILT,HIGH,FAMILY,6,1,TRUE
+98,Colombia,"¡verifica AHORA! Si no, se cierra!","Bro, hurry! Send money or they steal everything!",ANGER,MEDIUM,LOTTERY,6,2,TRUE
+99,Argentina,"Dale, última chance! verifica YA, pierdes todo.","Move fast, idiot! Last chance, send money NOW!",GREED,MEDIUM,TECH_SUPPORT,7,1,FALSE
+100,Mexico,"Ándale, se vuela! transfiere YA, pierdes todo.","Hurry up, dude! Transfer NOW or they screw you!",PANIC,CRITICAL,POLICE,7,1,FALSE
